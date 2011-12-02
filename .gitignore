@@ -1,2 +1,7 @@
 .svn
 v8/third_party
+Debug
+v8/tools/gyp/Debug/
+xruby.opensdf
+xruby.vcxproj.user
+xruby.suo
